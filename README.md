@@ -3,7 +3,6 @@
 🎓 CS Student @ MSU Denver  
 📍 Aurora, Colorado  
 🚀 Building full stack web & mobile apps  
-🤖 AI-powered development with Claude & Windsurf  
 
 ## 🔗 Links
 - 🌐 Portfolio: [modevs-cloud.netlify.app](https://modevs-cloud.netlify.app)
