@@ -10,7 +10,7 @@
 - 📧 Email: mohammadhu1058@gmail.com
 
 ## 🛠️ Tech Stack
-Python • Flask • PostgreSQL • C++ • JavaScript • Flutter
+Python • Flask • PostgreSQL • C++ • JavaScript
 
 ## 🚀 Featured Project
 **AI Student Helper** — Live AI web app with real active users  
