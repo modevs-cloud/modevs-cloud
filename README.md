@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mohammad Hussainkhail 👋
 
-<!--
-**modevs-cloud/modevs-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student @ MSU Denver  
+📍 Aurora, Colorado  
+🚀 Building full stack web & mobile apps  
+🤖 AI-powered development with Claude & Windsurf  
 
-Here are some ideas to get you started:
+## 🔗 Links
+- 🌐 Portfolio: [modevs-cloud.netlify.app](https://modevs-cloud.netlify.app)
+- 💼 LinkedIn: [linkedin.com/in/mohammadhussainkhail](https://linkedin.com/in/mohammadhussainkhail)
+- 📧 Email: mohammadhu1058@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+Python • Flask • PostgreSQL • C++ • JavaScript • Flutter
+
+## 🚀 Featured Project
+**AI Student Helper** — Live AI web app with real active users  
+[Live Demo](https://ai-student-helper-qsjg.onrender.com) | [GitHub](https://github.com/modevs-cloud/ai-student-helper)
+
+## 📌 Open to Part-Time Internships
+Looking for part-time software engineering roles in Colorado or remote that fit around my school schedule.
